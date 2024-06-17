@@ -1,0 +1,5 @@
+git+https://github.com/microsoft/torchgeo.git
+transformers
+hydra-core
+python_papi==6.0.0.1
+h5py

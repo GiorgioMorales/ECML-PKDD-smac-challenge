@@ -1,0 +1,17 @@
+{
+  "cpu in mhz":"1700",
+  "threads":[
+    {
+      "id":"4043643",
+      "regions":[
+        {
+          "evaluator":{
+            "region_count":"1",
+            "cycles":"109681678",
+            "PAPI_SP_OPS":"524288"
+          }
+        }
+      ]
+    }
+  ]
+}
